@@ -44,3 +44,10 @@ Los leds irán conectados a los pines (7,6,5,4). Esto será  de ayuda para saber
 
 Mientras el desarrollo de este software nos encontramos con el problema de mover algún servomotor, la conexión de Java a Arduino. 
 Utilizamos la memoria EEPROM y fue un conflicto utilizarla. 
+
+![1 2](https://user-images.githubusercontent.com/43210622/49092687-26e5ad00-f228-11e8-8def-fd3461c69c6b.jpeg)
+![1](https://user-images.githubusercontent.com/43210622/49092693-29e09d80-f228-11e8-870a-7827761c314e.jpeg)
+![2](https://user-images.githubusercontent.com/43210622/49092694-29e09d80-f228-11e8-8871-73a3afda1786.jpeg)
+![3](https://user-images.githubusercontent.com/43210622/49092695-29e09d80-f228-11e8-8d4f-be5433ba972e.jpeg)
+![4](https://user-images.githubusercontent.com/43210622/49092698-2a793400-f228-11e8-971c-e92fe879eb4d.jpeg)
+![5](https://user-images.githubusercontent.com/43210622/49092699-2a793400-f228-11e8-9840-a3a7aeadb4fa.jpeg)
