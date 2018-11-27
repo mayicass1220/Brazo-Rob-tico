@@ -3,11 +3,12 @@
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
 #### MATERIA:
 Sistemas Programables
-#### Brazo Robótico
-Brazo Robot, que simula las funciones básicas de un robot industrial.
+#### Brazo Robotico
+Realizar un brazo en arduino para la materia de Sistemas Programables. 
 #### PRESENTA:
 Casillas Manrique Mariela Abigail
-González Henández Ivonne Lizbeth
+
+González Hernández Ivonne Lizbeth
 #### PROFESOR:
 Ing. Levy Rojas Carlos Rafael
 #### HORARIO:
@@ -16,15 +17,18 @@ Martes & Jueves 8:45 - 10-25 am
 
 Este proyecto fue realizado con fines educativos. 
 
-###Introducción 
+###Introducción
+
 El objetivo de está práctica es realizar un brazo que sea controlado con arduino y un lenguaje de programación, este caso el lenguaje de programación que se estableció el lenguaje de Java. El brazo recibirá una serie de instrucciones, el brazo realizará la secuencia.
 
 ###Requisitos
+
 Se necesita una máquina con 2GB en RAM. 
 Tenemos que tener instalado el siguiente software NeatBeans, Java y Arduino IDE. 
 Tenemos que tener instalada la librería (nombre de la librería) en NeatBeans. 
 
 ###Instalación 
+
 El brazo robotico tenía 4 servomotores que controlan cada articulación del mismo. Cada brazo será conectado al arduino de acuerdo al código realizado en arduino. 
 Para utilizar en la protoboard necesitamos lo siguiente: 
   Protoboard
@@ -37,5 +41,6 @@ Conectaremos los 4 leds a la protoboard y conectamos la una parte del led a GND 
 Los leds irán conectados a los pines (7,6,5,4). Esto será  de ayuda para saber cuuál es el servo que se está ejecutando.
 
 ###Analisis de pruebas:
+
 Mientras el desarrollo de este software nos encontramos con el problema de mover algún servomotor, la conexión de Java a Arduino. 
 Utilizamos la memoria EEPROM y fue un conflicto utilizarla. 
