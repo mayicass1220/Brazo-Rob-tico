@@ -1,13 +1,13 @@
 # Brazo-Rob-tico
 Brazo Robot, que simula las funciones básicas de un robot industrial.
-# Brazo controlado a través de arduino version 1.0 24/05/18
+# Brazo controlado a través de arduino 
 Realizar un brazo en arduino para la materia de Sistemas Programables. 
 
 Este proyecto fue realizado con fines educativos. 
 
 Autores: 
-Mariela Abigail Casillas Manrique __ No.Control 14240262
-Ivonne Lizbeth Gonzáñez Hernández __ No.Control 14240257
+*Mariela Abigail Casillas Manrique __ No.Control 14240262
+*Ivonne Lizbeth Gonzáñez Hernández __ No.Control 14240257
 
 
 #Introducción 
@@ -21,10 +21,10 @@ Tenemos que tener instalada la librería (nombre de la librería) en NeatBeans.
 #Instalación 
 El brazo robotico tenía 4 servomotores que controlan cada articulación del mismo. Cada brazo será conectado al arduino de acuerdo al código realizado en arduino. 
 Para utilizar en la protoboard necesitamos lo siguiente: 
-  ✿Protoboard
-  ✿Cables macho-macho 
-  ✿Push Button 
-  ✿Leds 
+  Protoboard
+  Cables macho-macho 
+  Push Button 
+  Leds 
 En la instalacion en la protoboard colocamos el cable de datos del servomotor en algún punto de la protoboard y desde la proto al pin arduino correspondiente, repetimos este paso con los demás servomotores. 
 El boton lo conectamos al pin (número de pin), después conectamos a 5V y GND, respectivamente. 
 Conectaremos los 4 leds a la protoboard y conectamos la una parte del led a GND y otra a 5V, repetimos con los demás leds. 
