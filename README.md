@@ -1,4 +1,4 @@
-# Brazo-Rob-tico
+
 Brazo Robot, que simula las funciones básicas de un robot industrial.
 # Brazo controlado a través de arduino 
 Realizar un brazo en arduino para la materia de Sistemas Programables. 
